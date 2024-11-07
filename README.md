@@ -26,6 +26,12 @@ Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student 
 - Mastering Web Development skills with modern libraries and frameworks
 - Improve coding skills through practice and solve algorithmic problems
 
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnrdgnwn&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnrdgnwn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gunawan-b10497288)
