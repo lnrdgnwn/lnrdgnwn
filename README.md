@@ -35,3 +35,5 @@ Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student 
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gunawan-b10497288)
+
+Last Edited : 14/12/2024
