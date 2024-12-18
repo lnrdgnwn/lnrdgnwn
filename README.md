@@ -1,7 +1,7 @@
 # Leonardo Gunawan
 
 ## 👋 About Me:
-Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student at Sriwijaya University. passionate about exploring Web Development, Machine Learning, and UI/UX.
+Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student at Sriwijaya University. passionate about exploring Web Development and Mobile App Development.
 
 🌐 **My Website** : [lnrdgnwn.vercel.app](https://lnrdgnwn.vercel.app/)
 
@@ -22,7 +22,7 @@ Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎯 Current Learning Goals
-- Learning and Exploring Machine Learning
+- Learning and Exploring Mobile App Development.
 - Mastering Web Development skills with modern libraries and frameworks
 - Improve coding skills through practice and solve algorithmic problems
 
@@ -36,4 +36,4 @@ Hi!, I'm **Leonardo Gunawan**, an Undergraduate Informatics Engineering student 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gunawan-b10497288)
 
-Last Edited : 14/12/2024
+Last Edited : 18/12/2024
